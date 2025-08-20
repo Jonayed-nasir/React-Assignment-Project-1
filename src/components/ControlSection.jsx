@@ -27,7 +27,7 @@ function ControlSection() {
             <div key={index} className='space-y-3'>
                 <img className='w-full max-w-15' src={item.image} alt={item.title} />
                 <h3 className='text-lg font-semibold leading-tight'>{item.title}</h3>
-                <p className='text-sm max-w-[350px]'>{item.description}</p>
+                <p className='text-sm max-w-[310px]'>{item.description}</p>
             </div>
         ))
       }
