@@ -3,7 +3,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <section className="bg-[url(/hero.svg)] bg-no-repeat bg-cover shadow-2xl ">
+    <section className="bg-[url(/hero.svg)] bg-no-repeat bg-cover shadow-4xl ">
       <div className="w-full max-w-[1440px] mx-auto px-3 md:px-10  lg:px-20 xl:px-24 py-5 h-[408px] md:h-[573px]  flex flex-col justify-center space-y-5  items-center md:items-start">
         <h4 className="text-[#0FF1F6] text-lg lg:text-2xl text-center md:text-left">
           AI SDRs (aiDRs)
