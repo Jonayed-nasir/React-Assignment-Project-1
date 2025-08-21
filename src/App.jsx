@@ -6,6 +6,7 @@ import Partners from './components/Partners';
 import ControlSection from './components/ControlSection';
 import Prefered from './components/Prefered';
 import Pagination from './components/Pagination';
+import Inpact from './components/Inpact';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <ControlSection />
       <Prefered />
       <Pagination />
+      <Inpact />
       </div>
     </main>
 
