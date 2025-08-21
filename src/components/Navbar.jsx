@@ -19,7 +19,7 @@ function NavBar() {
     <Navbar className="bg-transparent border-b border-[#183a40] w-full" onOpenMenuOpenChange={setIsMenuOpen} maxWidth='xl'>
       <NavbarContent>
         <NavbarBrand className="flex md:ml-0">
-          <img className="flex " src="/Logo.png" alt="" />
+          <img className="flex" src="/Logo.png" alt="" />
         </NavbarBrand>
       </NavbarContent>
 
