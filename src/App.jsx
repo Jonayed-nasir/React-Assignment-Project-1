@@ -7,6 +7,8 @@ import ControlSection from './components/ControlSection';
 import Prefered from './components/Prefered';
 import Pagination from './components/Pagination';
 import Inpact from './components/Inpact';
+import Started from './components/Started';
+
 
 function App() {
   return (
@@ -20,7 +22,9 @@ function App() {
       <Prefered />
       <Pagination />
       <Inpact />
+      <Started />
       </div>
+
     </main>
 
     </>
