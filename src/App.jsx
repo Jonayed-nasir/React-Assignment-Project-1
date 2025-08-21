@@ -8,7 +8,7 @@ import Prefered from './components/Prefered';
 import Pagination from './components/Pagination';
 import Inpact from './components/Inpact';
 import Started from './components/Started';
-
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
       <Inpact />
       <Started />
       </div>
-
+      <Footer />
     </main>
 
     </>
